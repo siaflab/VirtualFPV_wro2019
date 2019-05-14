@@ -40,7 +40,21 @@ The following is OK status image:
 <img src="vfpv_wro2019_OK.png" alt="vfpv_wro2019_OK.png" width="300" height="200">
 
 
-## 2. Customize
+## 2. Log data and Simulation data
+
+The tracking data is logged into logfile as './logdata/gps_data_yyyymmdd.txt'.
+
+You can visualize logged data.
+1. rename './logdata/gps_data_yyyymmdd.txt' to './logdata/gps_data.txt'
+2. Data menu -> Run Demo  
+
+You can visualize simulation data too.
+1. simulate https://predict.habhub.org/ and save as CSV
+2. move saved CSV file into ./simdata/flight_path.csv
+3. Data menu -> Simulation
+
+
+## 3. Customize
 
 You can customize visualizer by 'config.txt'.
 
@@ -53,17 +67,4 @@ You can customize visualizer by 'config.txt'.
 |Height|terrain height emphasis|
 |PositionY|terrain altitude|
 |ScaleX, ScaleY, ScaleZ|lat/lon to terrain coefficient parameter|
-
-
-## 3. Log data and Simulation data
-
-The tracking data is logged into logfile as './logdata/gps_data_yyyymmdd.txt'.
-
-You can visualize logged data.
-1. rename './logdata/gps_data_yyyymmdd.txt' to './logdata/gps_data.txt
-2. Data menu -> Run Demo  
-  
-
-
-
 
