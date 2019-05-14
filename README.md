@@ -42,15 +42,15 @@ The following is OK status image:
 
 ## 2. Log data and Simulation data
 
-The tracking data is logged into logfile as './logdata/gps_data_yyyymmdd.txt'.
+The received tracking data is logged to logfile named as './logdata/gps_data_yyyymmdd.txt'.
 
 You can visualize logged data.
 1. rename './logdata/gps_data_yyyymmdd.txt' to './logdata/gps_data.txt'
 2. Data menu -> Run Demo  
 
 You can visualize simulation data too.
-1. simulate https://predict.habhub.org/ and save as CSV
-2. move saved CSV file into ./simdata/flight_path.csv
+1. simulate balloon by https://predict.habhub.org/ and save as CSV
+2. move the CSV file to ./simdata/flight_path.csv
 3. Data menu -> Simulation
 
 
