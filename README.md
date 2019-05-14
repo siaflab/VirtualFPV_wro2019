@@ -64,7 +64,7 @@ You can customize visualizer by 'config.txt'.
 |Latitude|default latitude|
 |Longitude|default longitude|
 |Zoom|default zooming|
-|Height|terrain height emphasis|
-|PositionY|terrain altitude|
-|ScaleX, ScaleY, ScaleZ|lat/lon to terrain coefficient parameter|
+|Height|terrain model height emphasis|
+|PositionY|terrain model altitude|
+|ScaleX, ScaleY, ScaleZ|lat/lon to terrain model scaling parameter|
 
