@@ -17,17 +17,15 @@ If System Status shows 'NG' like the following image
 ### Step1
 
 create new folder
- mkdir vfpv
+> mkdir vfpv
 
 ### Step2
 
 copy app file to new folder
-
-  cp -r vfpv_wro2019.app vfpv/
+> cp -r vfpv_wro2019.app vfpv/
 
 ### Step3
 
 copy the others to new folder
-
- cp -r config.txt logdata simdata vfpv/
+> cp -r config.txt logdata simdata vfpv/
  
