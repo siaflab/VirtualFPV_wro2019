@@ -13,6 +13,7 @@ https://drive.google.com/open?id=1n1vLBd-sSXkleht9W2EQzZxiChX9Tgd6
 
 If System Status shows 'NG' like the following image
 
+<img src="attach:vfpv_wro2019_NG.png" alt="vfpv_wro2019_NG.png" width="200" height="180">
 ![NG Status](vfpv_wro2019_NG.png)
 
 ### Step1
