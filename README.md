@@ -45,6 +45,7 @@ The following is OK status image:
 You can customize visual by config.txt.
 
 |keyword|value|
+----|---- 
 |OSCPort|OSC message receive port|
 |Latitude|default latitude|
 |Longitude|default longitude|
