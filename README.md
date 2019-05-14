@@ -13,7 +13,7 @@ https://drive.google.com/open?id=1n1vLBd-sSXkleht9W2EQzZxiChX9Tgd6
 
 If System Status shows 'NG' like the following image
 
-<img src="vfpv_wro2019_NG.png" alt="vfpv_wro2019_NG.png" width="300" height="250">
+<img src="vfpv_wro2019_NG.png" alt="vfpv_wro2019_NG.png" width="300" height="230">
 
 ### Step1
 
@@ -32,4 +32,4 @@ copy the others to new folder
 
 The following is OK status image:
 
-<img src="vfpv_wro2019_OK.png" alt="vfpv_wro2019_OK.png" width="300" height="250">
+<img src="vfpv_wro2019_OK.png" alt="vfpv_wro2019_OK.png" width="300" height="200">
