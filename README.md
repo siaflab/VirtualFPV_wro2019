@@ -9,10 +9,11 @@ Windows 64bit
 https://drive.google.com/open?id=1n1vLBd-sSXkleht9W2EQzZxiChX9Tgd6
 
 
-## macOS troubleshooting
+## macOS trouble shooting
 
 If System Status shows 'NG' like the following image
 
+![NG Status]()
 
 ### Step1
 
