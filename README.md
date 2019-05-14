@@ -42,7 +42,7 @@ The following is OK status image:
 
 ## 2. Log data and Simulation data
 
-The received tracking data is logged to logfile named as './logdata/gps_data_yyyymmdd.txt'.
+The received tracking data is logged to file named as './logdata/gps_data_yyyymmdd.txt'.
 
 You can visualize logged data.
 1. rename './logdata/gps_data_yyyymmdd.txt' to './logdata/gps_data.txt'
