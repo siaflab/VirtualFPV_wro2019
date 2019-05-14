@@ -1,6 +1,6 @@
 # VirtualFPV wro2019 Biennale version
 
-[vfpv_wro2019.gif](vfpv_wro2019.gif)
+![vfpv_wro2019.gif](vfpv_wro2019.gif)
 
 
 download link for executable file:
