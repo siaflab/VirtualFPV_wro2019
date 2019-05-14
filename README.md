@@ -29,4 +29,6 @@ copy app file to new folder
 
 copy the others to new folder
 > cp -r config.txt logdata simdata vfpv/
- 
+
+The following is OK status image:
+<img src="vfpv_wro2019_OK.png" alt="vfpv_wro2019_OK.png" width="300" height="250">
