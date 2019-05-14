@@ -18,17 +18,17 @@ If System Status shows 'NG' like the following image
 ### Step1
 
 create new folder
-> mkdir vfpv
 
 ### Step2
 
-copy app file to new folder
-> cp -r vfpv_wro2019.app vfpv/
+copy vfpv_wro2019.app file into the new folder using Finder
 
 ### Step3
 
-copy the others to new folder
-> cp -r config.txt logdata simdata vfpv/
+copy the other files/folders into the new folder using Finder
+
+execute vfpv_wro2019.app of the new folder.
+
 
 The following is OK status image:
 
