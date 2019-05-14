@@ -49,7 +49,9 @@ You can customize visual by config.txt.
 |OSCPort|OSC message receive port|
 |Latitude|default latitude|
 |Longitude|default longitude|
-
-
+|Zoom|default zooming|
+|Height|terrain height emphasis|
+|PositionY|terrain altitude|
+|ScaleX, ScaleY, ScaleZ|lat/lon to terrain coefficient parameter|
 
 
