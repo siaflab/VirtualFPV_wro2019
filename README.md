@@ -1,6 +1,6 @@
 # VirtualFPV wro2019 version
 
-download link executable file:
+download link for executable file:
 
 macOS  
 https://drive.google.com/open?id=1KX_R7Dkl1aG5dv3OmMRv_rufohkl-I1S
@@ -17,7 +17,7 @@ If System Status shows 'NG' like the following image
 
 ### Step1
 
-create new folder
+create a new folder
 
 ### Step2
 
