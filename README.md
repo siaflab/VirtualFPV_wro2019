@@ -42,7 +42,7 @@ The following is OK status image:
 
 ## 2. Customize
 
-You can customize visual by config.txt.
+You can customize visualizer by 'config.txt'.
 
 |keyword|value|
 ----|---- 
@@ -53,5 +53,17 @@ You can customize visual by config.txt.
 |Height|terrain height emphasis|
 |PositionY|terrain altitude|
 |ScaleX, ScaleY, ScaleZ|lat/lon to terrain coefficient parameter|
+
+
+## 3. Log data and Simulation data
+
+The tracking data is logged into logfile as './logdata/gps_data_yyyymmdd.txt'.
+
+You can visualize logged data.
+1. rename './logdata/gps_data_yyyymmdd.txt' to './logdata/gps_data.txt
+2. Data menu -> Run Demo  
+  
+
+
 
 
