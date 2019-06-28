@@ -20,9 +20,9 @@ VirtualFPV
 
 You need to import the following libraries to build this program:
 
-- [Standard Assets](https://docs.unity3d.com/Manual/HOWTO-InstallStandardAssets.html)
-- [Post Processing Stack](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912)
+- [Post Processing Stack v1](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912)
 - [UnityOSC](https://github.com/jorgegarcia/UnityOSC)
+- [Mapbox for Unity](https://www.mapbox.com/unity/)
 
 ## OSC INTERFACE
 
@@ -37,12 +37,12 @@ Port Number: 32000
 
 ## CREDIT
 VirtualFPV program licensed under MIT License.  
-https://github.com/siaflab/VirtualFPV_balloon_trajectory_visualiser
+https://github.com/siaflab/VirtualFPV_wro2019
 
 Space Moere Project  
 ARTSAT x SIAF Lab  
 http://space-moere.org
 
-3D/2D map licensed by
-The Geospatial Information Authority of Japan  
-https://maps.gsi.go.jp/
+3D map licensed by
+Mapbox  
+https://www.mapbox.com/
