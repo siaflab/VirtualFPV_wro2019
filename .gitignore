@@ -8,8 +8,9 @@ VirtualFPV/.vs
 *.sln
 *.userprefs
 *.zip
-gps_data_*.txt
+VirtualFPV/logdata/gps_data_*.txt
 VirtualFPV/build/*.app
+VirtualFPV/build/logdata/gps_data_*.txt
 VirtualFPV/Assets/Resources/Mapbox/
 VirtualFPV/Assets/OSC/*
 !VirtualFPV/Assets/OSC/README.md
@@ -23,4 +24,3 @@ VirtualFPV/Assets/UnityARKitPlugin
 VirtualFPV/Assets/UnityARInterface
 VirtualFPV/Assets/ThirdPartyAssets
 VirtualFPV/UnityPackageManager
-
