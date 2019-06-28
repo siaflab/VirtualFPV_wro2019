@@ -1,0 +1,25 @@
+.DS_Store
+VirtualFPV/Library
+VirtualFPV/Temp
+VirtualFPV/obj
+VirtualFPV/Logs
+VirtualFPV/.vs
+*.csproj
+*.sln
+*.userprefs
+*.zip
+VirtualFPV/build/*.app
+VirtualFPV/Assets/Resources/Mapbox/
+VirtualFPV/Assets/OSC/*
+!VirtualFPV/Assets/OSC/README.md
+VirtualFPV/Assets/PostProcessing/*
+!VirtualFPV/Assets/PostProcessing/README.md
+VirtualFPV/Assets/Standard Assets/
+VirtualFPV/Assets/MapboxAR
+VirtualFPV/Assets/Mapbox
+VirtualFPV/Assets/GoogleARCore
+VirtualFPV/Assets/UnityARKitPlugin
+VirtualFPV/Assets/UnityARInterface
+VirtualFPV/Assets/ThirdPartyAssets
+VirtualFPV/UnityPackageManager
+

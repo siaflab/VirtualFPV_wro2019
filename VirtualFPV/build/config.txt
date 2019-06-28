@@ -1,0 +1,31 @@
+# config
+
+#################
+# Network
+
+OSCPort = 32000
+
+
+#################
+# Default Geolocation
+
+# Wrocław
+Latitude = 51.116073
+Longitude = 17.0227592
+
+# Moerenuma Park
+#Latitude = 43.122080
+#Longitude = 141.425995
+
+# Sapporo Shiryokan
+#Latitude = 43.0584193
+#Longitude = 141.3374699
+
+
+Zoom = 8
+Height = 5.0
+PositionY = -0.5
+
+ScaleX = 71.0
+ScaleY = 1700.0
+ScaleZ = 114.0

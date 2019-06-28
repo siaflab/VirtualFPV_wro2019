@@ -1,0 +1,31 @@
+# config
+
+#################
+# Network
+
+OSCPort = 32000
+
+
+#################
+# Geolocation
+
+# Wrocław
+#Latitude = 51.107257
+#Longitude = 17.076225
+
+# Moerenuma Park
+Latitude = 43.122080
+Longitude = 141.425995
+
+# NASA Baloon
+#Latitude = 42.35846
+#Longitude = -100.38397
+
+
+Zoom = 8
+Height = 5.0
+PositionY = -10.0
+
+ScaleX = 65.0
+ScaleY = 1700.0
+ScaleZ = 90.0
