@@ -8,6 +8,7 @@ VirtualFPV/.vs
 *.sln
 *.userprefs
 *.zip
+gps_data_*.txt
 VirtualFPV/build/*.app
 VirtualFPV/Assets/Resources/Mapbox/
 VirtualFPV/Assets/OSC/*
