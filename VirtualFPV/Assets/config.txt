@@ -9,13 +9,13 @@ OSCPort = 32000
 #################
 # Default Geolocation
 
-# Wrocraw
-#Latitude = 51.116073
-#Longitude = 17.0227592
+# Wrocław
+Latitude = 51.116073
+Longitude = 17.0227592
 
 # Moerenuma Park
-Latitude = 43.122080
-Longitude = 141.425995
+#Latitude = 43.122080
+#Longitude = 141.425995
 
 # Sapporo Shiryokan
 #Latitude = 43.0584193

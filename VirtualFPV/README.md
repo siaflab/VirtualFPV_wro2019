@@ -20,22 +20,22 @@ VirtualFPV
 
 You need to import the following libraries to build this program:
 
-- [Post Processing Stack v1](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912)
-Install from "AssetStore" tab.
-Post Processing Stack v1 is not suitable for Unity2018.3.
-So you need fix MinDrawer.cs error.
+- [Post Processing Stack v1](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912)  
+Install from "AssetStore" tab  
+Post Processing Stack v1 is not suitable for Unity2018.3.  
+So you need fix MinDrawer.cs error  
 https://forum.unity.com/threads/post-processing-stack-error.554926/
 
-- [UnityOSC](https://github.com/jorgegarcia/UnityOSC)
-Download from github.
-Copy src/OSC folder files into Assets/OSC folder
+- [UnityOSC](https://github.com/jorgegarcia/UnityOSC)  
+Download from github.  
+Copy src/OSC folder files into Assets/OSC folder  
 
-- [Mapbox for Unity](https://www.mapbox.com/unity/)
-Download unitypackage file.
-Assets menu -> Import New Asset...
-select the unitypackage
-Get access token from www.mapbox.com
-Mapbox menu -> Setup
+- [Mapbox for Unity](https://www.mapbox.com/unity/)  
+Download unitypackage file  
+Assets menu -> Import New Asset...  
+select the unitypackage  
+Get access token from www.mapbox.com  
+Mapbox menu -> Setup  
 set access token
 
 ## OSC INTERFACE
