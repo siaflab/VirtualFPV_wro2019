@@ -8,7 +8,7 @@ Balloon trajectory realtime visualizer, simulator, log viewer for WRO2019 BIENNA
 download link for executable file:
 
 macOS  
-https://drive.google.com/open?id=1KX_R7Dkl1aG5dv3OmMRv_rufohkl-I1S
+https://drive.google.com/file/d/1s4-MFTLO_J9k-BC0aguJ7P9E-pahQDuF/view?usp=sharing
 
 Windows 64bit  
 https://drive.google.com/file/d/1TPhMLAnj135LdZTPGE9en6p76oLlc3vE/view?usp=sharing
