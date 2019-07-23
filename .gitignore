@@ -8,9 +8,14 @@ VirtualFPV/.vs
 *.sln
 *.userprefs
 *.zip
-VirtualFPV/logdata/gps_data_*.txt
+VirtualFPV/.vscode/
+VirtualFPV/logdata/gps_data_2*.txt
 VirtualFPV/build/*.app
-VirtualFPV/build/logdata/gps_data_*.txt
+VirtualFPV/build/*.exe
+VirtualFPV/build/*.dll
+VirtualFPV/build/Mono/
+VirtualFPV/build/VirtualFPV_Data/
+VirtualFPV/build/logdata/gps_data_2*.txt
 VirtualFPV/Assets/Resources/Mapbox/
 VirtualFPV/Assets/OSC/*
 !VirtualFPV/Assets/OSC/README.md
