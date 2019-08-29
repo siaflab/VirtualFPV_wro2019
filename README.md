@@ -1,6 +1,8 @@
 # VirtualFPV WRO2019 Biennale version
 
-Balloon trajectory realtime visualizer, simulator, log viewer for WRO2019 BIENNALE
+Balloon trajectory realtime visualizer, simulator, log viewer for WRO2019 BIENNALE  
+Space-Moere Project 
+https://space-moere.org/about/
 
 ![vfpv_wro2019.gif](vfpv_wro2019.gif)
 
